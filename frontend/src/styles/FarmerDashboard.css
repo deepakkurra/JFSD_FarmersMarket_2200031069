@@ -1,0 +1,21 @@
+/* src/styles/FarmerDashboard.css */
+.farmer-dashboard {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .farmer-dashboard button {
+    margin: 10px;
+    padding: 10px;
+    background-color: #8BC34A;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .farmer-dashboard form input,
+  .farmer-dashboard form textarea {
+    margin: 5px 0;
+    width: 100%;
+    padding: 10px;
+  }
+    

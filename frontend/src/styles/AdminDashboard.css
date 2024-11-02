@@ -1,0 +1,24 @@
+/* src/styles/AdminDashboard.css */
+.admin-dashboard {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .admin-dashboard button {
+    margin: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .admin-dashboard .product-approval-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  .approve-button, .reject-button {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  

@@ -1,0 +1,30 @@
+.order-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .order-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+  }
+  
+  .order-total {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  .payment-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .payment-button:hover {
+    background-color: #45a049;
+  }
+  

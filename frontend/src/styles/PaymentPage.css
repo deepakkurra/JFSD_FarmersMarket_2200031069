@@ -1,0 +1,18 @@
+.payment-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .confirm-payment-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .confirm-payment-button:hover {
+    background-color: #45a049;
+  }
+  
